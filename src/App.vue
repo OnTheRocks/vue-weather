@@ -120,7 +120,7 @@ main {
 .location-box .location {
   color: #FFF;
   font-size: 32px;
-  font-weight: 500;
+  font-weight: 900;
   text-align: center;
   text-shadow: 1px 3px rgba(0,0,0,0.25);
 }
