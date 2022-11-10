@@ -153,7 +153,7 @@ main {
 .weather-box .weather {
   color: #FFF;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 900;
   font-style : italic;
   text-shadow: 3px 6px rgba(0,0,0,0.25);
 }
